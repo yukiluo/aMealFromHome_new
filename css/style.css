@@ -71,7 +71,7 @@ header {
 object { 
   width: 100%;
   max-width: 400px;
-  padding: 100px 0;
+  padding: 120px 0;
   margin: 0 auto;
   display: block;
   animation: float 3s ease-out infinite;
@@ -456,12 +456,12 @@ footer {
   position: relative;
   background-color: #ececec /*#e6af2e  *//*#A30B37*/;
   text-align: center;
-  opacity:;
 }
-footer .icon {
-  width: 100px;
-  max-width: 250px;
-  padding: 30px 0px;
+footer .fab{
+/*  width: 100%;
+  max-width: 250px;*/
+  margin: 50px 20px 50px 0px;
+
 }
 
 footer .copy{
